@@ -1,7 +1,9 @@
 streamlit
-opencv-python-headless==4.7.0.72
+opencv-python
 ultralytics
 numpy
 pillow
 torch
 torchvision
+face-recognition
+dlib
