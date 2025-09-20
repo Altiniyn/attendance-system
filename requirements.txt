@@ -1,9 +1,7 @@
 streamlit
-opencv-python
+opencv-python-headless
 ultralytics
 numpy
 pillow
 torch
 torchvision
-face-recognition
-dlib
