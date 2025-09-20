@@ -1,0 +1,9 @@
+streamlit
+opencv-python
+ultralytics
+numpy
+pillow
+torch
+torchvision
+face-recognition
+dlib
